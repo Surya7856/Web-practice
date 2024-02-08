@@ -1,2 +1,2 @@
 # Web-practice
-A Practice website on Restaurant home page
+Practice on flexbox,grids,css,javascript
